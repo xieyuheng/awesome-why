@@ -24,4 +24,4 @@
 欢迎 PR, 如有 PR, 请将自己添加入 [AUTHORS](AUTHORS) 列表
 
 - [Code of Conduct](CODE-OF-CONDUCT.md)
-- [GPLv3](LICENSE)
+- LICENSE: [GPLv3](LICENSE)
